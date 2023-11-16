@@ -1,0 +1,3 @@
+﻿  p25.cpp
+C:\Users\e4872\桌面\hw4\p25\p25.cpp(16,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  p25.vcxproj -> C:\Users\e4872\桌面\hw4\p25\x64\Debug\p25.exe

@@ -1,0 +1,4 @@
+﻿  p19.cpp
+C:\Users\e4872\桌面\hw4\p19\p19.cpp(12,13): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\e4872\桌面\hw4\p19\p19.cpp(12,13): message : this argument is used as a buffer size
+  p19.vcxproj -> C:\Users\e4872\桌面\hw4\p19\x64\Debug\p19.exe

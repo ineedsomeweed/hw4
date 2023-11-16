@@ -1,0 +1,5 @@
+﻿  p13.cpp
+C:\Users\e4872\桌面\hw4\p13\p13.cpp(12,9): warning C4476: 'printf' : unknown type field character 'v' in format specifier
+C:\Users\e4872\桌面\hw4\p13\p13.cpp(15,9): warning C4476: 'printf' : unknown type field character 'v' in format specifier
+C:\Users\e4872\桌面\hw4\p13\p13.cpp(18,9): warning C4476: 'printf' : unknown type field character 'v' in format specifier
+  p13.vcxproj -> C:\Users\e4872\桌面\hw4\p13\x64\Debug\p13.exe
